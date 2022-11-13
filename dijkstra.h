@@ -22,5 +22,4 @@ class Dijkstra{
     
 };
 
-
 #endif //DIJKSTRA_H
