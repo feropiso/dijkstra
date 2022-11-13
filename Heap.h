@@ -10,7 +10,7 @@ class Heap{
     Heap(vector<double*>, vector<int*>);
     ~Heap();
     void refaz(int, int);
-    void controi();
+    void constroi();
     int retiraMin();
     void diminuiChave(int, double);
     bool vazio();
